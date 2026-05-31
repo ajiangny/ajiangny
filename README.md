@@ -63,17 +63,6 @@ Beyond code, I do **brand identity, UI/UX, and digital art**. I redesigned the e
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=09090B&title_color=A855F7&icon_color=A855F7&text_color=e9d5ff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=09090B&title_color=A855F7&text_color=e9d5ff" />
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
