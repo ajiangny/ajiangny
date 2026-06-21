@@ -13,7 +13,7 @@
 
 ## 👋 Hey, I'm Andrew
 
-I'm a **Computer Science** student at **CUNY Queens College** (graduating May 2027) who sits at the intersection of software engineering and design. I'm Frontend Lead & Event Manager for [Code For All], where I also designed the club's full brand identity from scratch — colors, typography, mascot and all.
+I'm a **Computer Science** student at **CUNY Queens College** (graduating May 2027) who sits at the intersection of software engineering and design. I'm Secertary for Code For All, where I also designed the club's full brand identity from scratch — colors, typography, mascot and all.
 
 I care a lot about *how things feel*, not just how they work. Whether I'm building a hackathon platform, designing a compiler, or sketching UI concepts, there's always a design sensibility behind every decision.
 
