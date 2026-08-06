@@ -18,7 +18,7 @@ Currently Secretary at **Code For All**, a Discord community of 2,000+ members.
 
 ## Experience
 
-**[Pear Protocol](https://www.pear.garden/)** `Jan 2023 – Jan 2025` — Python automation pipeline processing a 10,000+ image generative collection with 100% metadata compliance. `Python`
+**[Pear Protocol](https://www.pear.garden/)** `Jan 2024 – Jan 2025` — Python automation pipeline processing a 10,000+ image generative collection with 100% metadata compliance. `Python`
 
 ---
 
