@@ -30,6 +30,8 @@ Currently Secretary at **Code For All**, a Discord community of 2,000+ members.
 
 **[Bank Statement Parser](https://github.com/ajiangny/bank_parser)** — Regex engine processing 10,000+ transactions at 97% accuracy; cut client reconciliation time by 85%. `Python` `SQLite`
 
+**[Kanto Pokedex Fire Red Inspired](https://ajiangny.github.io/kanto-pokedex/).** — Pokedex of the first 151 Pokemon. `Javascript` `CSS` `HTML`
+
 ---
 
 ## Stack
